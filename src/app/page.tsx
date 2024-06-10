@@ -44,7 +44,9 @@ export default function HomePage() {
         xeyir: ${gross}
         `}
       </div>
-  
+      <div>
+        {(weight===31 && price===69)&& "Abbas Peyserdi"}
+      </div>
       
     </main>
   );
